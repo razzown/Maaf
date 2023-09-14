@@ -1,19 +1,22 @@
 {
-  "name": "recoder man",
-  "version": "2.1.0",
-  "description": "steal any project",
+  "name": "RazzEL",
+  "version": "3.0.0",
+  "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-	"start": "node index.js"
+    "start": "node index.js"
   },
-   "keywords": [
-     "termux",
-     "WhatsApp bot using node.js",
-     "Whatsapp bot node.js",
-     "WhatsApp bot",
-     "WhatsApp busnis bot",
-     "scraper website"
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "2023",
+    "wabase-md",
+    "base",
+    "baileys-md",
+    "bot",
+    "bot-md",
+    "multi-device"
   ],
   "author": "recoder",
   "license": "ISC",
