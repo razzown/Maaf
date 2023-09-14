@@ -8,14 +8,15 @@
 	"start": "node index.js"
   },
    "keywords": [
-     "How to create WhatsApp bot using node.js",
-     "Whatsapp bot using node.js",
+     "termux",
+     "WhatsApp bot using node.js",
+     "Whatsapp bot node.js",
      "WhatsApp bot",
      "WhatsApp busnis bot",
      "scraper website"
   ],
   "author": "recoder",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
   "@adiwajshing/baileys": "npm:baileys-md@5.0.5",
   "@adiwajshing/keyed-db": "^0.2.4",
@@ -70,7 +71,6 @@
   "yt-search": "^2.10.2",
   "ytdl-core": "^4.11.5"
  },
- "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/razzown/Maaf.git"
